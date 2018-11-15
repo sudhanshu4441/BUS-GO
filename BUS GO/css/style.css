@@ -1,0 +1,98 @@
+body {
+    background-image: url("icons/2.png");
+}
+
+.back{
+	height: 1px;
+}
+
+#nav{
+	margin-top: -50px;
+}
+
+#panic{
+	margin-top: -135px;
+}
+
+#map{
+	margin-top: 130px;
+}
+
+#marquee{
+	height: 1px;
+}
+
+#img2{
+	margin-top: -70px;
+}
+
+#img1{
+	margin-top: -40px;
+}
+	
+
+
+h1
+{
+    color: blue;
+    text-align: center;
+    font-family: times new roman;
+    font-size: 30px;
+background-color: yellow;
+}
+
+p
+{
+	text-align: center;
+    font-family: times new roman;
+    font-size: 30px;
+background-color: white;
+}
+
+p.heading{
+	height: 90px;
+	text-align: center;
+    font-family: times new roman;
+    font-size: 40px;
+background-color: yellow;
+}
+
+p.heading img{
+	width:100px;
+   height:60px;
+   border-radius:35px;
+   margin-top:15px;
+   margin-bottom:0px;
+}	
+	
+table
+{
+	
+	background-color: white;
+	width: 40%;
+}
+td
+{
+	padding: 5pxx;
+	height: 30px;
+	text-align: center;
+	vertical-align: center;
+	border-bottom: 1px solid #ddd;
+	font-family: times new roman;
+	color: black;
+	font-size: 23px;
+	
+	
+}
+	tr:nth-child(even)
+	{
+		background-color: #66ffff
+	}
+
+th
+{
+		background-color: green;
+		color: white;
+		font-family: arial;
+		font-size: 30px;
+}

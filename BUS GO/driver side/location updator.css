@@ -1,0 +1,88 @@
+body {
+    background-image: url("wallpaper-download.jpg");
+	background-position:center;
+}
+
+
+
+#marquee{
+	height: 1px;
+}
+
+
+p.heading{
+	height: 45px;
+	text-align: center;
+    font-family: times new roman;
+    font-size: 40px;
+background-color: yellow;
+}
+	
+table
+{
+	
+	background-color: white;
+	width: 40%;
+	margin-left: 100px;
+}
+td
+{
+	padding: 5pxx;
+	height: 30px;
+	text-align: center;
+	vertical-align: center;
+	border-bottom: 1px solid #ddd;
+	font-family: times new roman;
+	color: black;
+	font-size: 23px;
+	
+	
+}
+	tr:nth-child(even)
+	{
+		background-color: #66ffff
+	}
+
+th
+{
+		background-color: green;
+		color: white;
+		font-family: arial;
+		font-size: 30px;
+}
+
+.container{
+    width:550px;
+    height:350px;
+	background-color:rgba(149, 165, 166,0.3);
+	border-radius:10px;
+	text-align:center;
+	margin:0 auto;
+	margin-top:60px;
+	margin-left:680px;
+	}
+.container img{
+   width:100px;
+   height:90px;
+   border-radius:35px;
+   margin-top:-60px;
+   margin-bottom:65px;
+   }
+input[type="text"]{
+	height:45px;
+	width:250px;
+	font-size:22px;
+	font-style:
+	border-radius: 5px;
+	border:none;
+	padding-left:25px;
+	margin-bottom:25px;
+	}
+.btn-update{
+	padding:15px 20px;
+	color:	rgba(72, 84, 96,1.0));
+	font-size:18px;
+	background-color:rgba(255, 63, 52,1.0);
+	border-radius:20px;
+	border-color:2px solid
+	}	

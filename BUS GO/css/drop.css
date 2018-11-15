@@ -1,0 +1,35 @@
+.dropbtn {
+    background-color: rgba(85, 239, 196,0.8);
+	font-family: Bookman Old Style;
+    color: red;
+    padding: 8px;
+    font-size: 26px;
+    border: none;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+ 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+ 
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: lightgrey;
+    min-width: 200px;
+    z-index: 1;
+}
+ 
+.dropdown-content a {
+	font-size: 20px;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+ 
+.dropdown-content a:hover {background-color: white;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: grey;}

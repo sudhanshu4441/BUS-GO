@@ -1,0 +1,74 @@
+body {
+    background-image: url("pexels-photo-128234.jpeg");
+	background-size:100%;
+	background-position:center;
+}
+
+.back{
+	height: 1px;
+}
+
+#marquee{
+	height: 1px;
+}
+
+h1
+{
+    color: blue;
+    text-align: center;
+    font-family: times new roman;
+    font-size: 30px;
+background-color: rgba(11, 232, 129, 0.1);
+}
+
+p 
+{
+	text-align: center;
+    font-family: times new roman;
+    font-size: 30px;
+	background-color: rgba(149, 165, 166,0.3);
+
+}
+
+p.heading{
+	height: 45px;
+	text-align: center;
+    font-family: times new roman;
+    font-size: 40px;
+	color: yellow;
+background-color: rgba(11, 232, 129, 0.2);
+}
+	
+table
+{
+	
+	background-color: white;
+	width: 40%;
+	border-radius:4px;
+}
+td
+{
+	padding: 5px;
+	height: 30px;
+	text-align: center;
+	vertical-align: center;
+	border:none;
+	border-bottom: 1px solid #ddd;
+	font-family: times new roman;
+	color: black;
+	font-size: 23px;
+	
+	
+}
+	tr:nth-child(even)
+	{
+		background-color: rgba(102, 255, 255, 0.4);
+	}
+
+th
+{
+		background-color: green;
+		color: white;
+		font-family: arial;
+		font-size: 30px;
+}

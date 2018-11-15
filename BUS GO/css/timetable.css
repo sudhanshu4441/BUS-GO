@@ -1,0 +1,22 @@
+body{
+		background-image: url("Kiwi-Experience-1617-Rotorua-bus-sunset-15.jpg");
+		background-size: 100%;
+		background-position:center;
+	}
+	
+#img1{
+	margin-top: -40px;
+}
+#busA{
+	margin-top: 20px;
+}
+
+#busB{
+	font size: 30px;
+	color: yellow;
+}
+
+#busC{
+	font size: 20px;
+	color: yellow;
+}
